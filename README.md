@@ -3,4 +3,4 @@
 
 ## Surge Link 
 
-For Live Demo, check out the [multi-page-signup.surge.sh](multi-page-signup.surge.sh)
+For Live Demo, check out the [multi-page-signup.surge.sh](http://multi-page-signup.surge.sh)
